@@ -1,7 +1,7 @@
 # gpt4twitter
 Simple script for a macroeconomics AI Twitter bot powered by Federal Reserve Data and OpenAI's GPT-4
 
-Here's the [YouTube Video]().
+Here's the [YouTube Video](https://www.youtube.com/watch?v=K4yj_TnbBas&t=4m57s).
 
 ## Installation
 
