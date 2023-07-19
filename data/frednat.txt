@@ -1,0 +1,1 @@
+The most recent reported value of FEDFUNDS from FRED is: 5.08.  The normalized to 0 to 1 value over the past year is [1.].
