@@ -13,10 +13,15 @@ Set your API keys via environment variables, eg. [OpenAI API key](https://platfo
 
 ```
 export FRED_API_KEY=YOUR_KEY
+
 export OPENAI_API_KEY=YOUR_KEY
+
 export TACCESS_KEY=YOUR_KEY
+
 export CONSUMER_KEY=YOUR_KEY
+
 export CONSUMER_SECRET_KEY=YOUR_KEY
+
 export TACCESSTOKEN_KEY=YOUR_KEY
 ```
 
